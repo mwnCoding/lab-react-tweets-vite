@@ -1,7 +1,9 @@
 function Message() {
-    return {
+    return (
+        <>
 
-    };
+        </>
+    );
 }
 
 export default Message;
